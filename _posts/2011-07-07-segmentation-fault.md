@@ -6,7 +6,7 @@ subtitle: Emotion Chat
 description: Recognizing emotions in text messages
 image: /assets/img/teams/segmentationfault.png
 optimized_image: /assets/img/teams/segmentationfault.png
-category: app
+category:
 tags:
   - 1st place
 author: fchacks
@@ -19,4 +19,4 @@ Images:
 <a href="https://github.com/arnavdandu/fchacks_emotion_chat_app">Code File</a> <br>
 <a href="https://drive.google.com/file/d/1PUNrmbUxPGnwLa4ZANbl5K8ts-caa2qn/view?usp=sharing">Project Video</a>
 
-Creators: Arnav, Oliver, Alexander (USA)
+Creators: Arnav, Oliver, Alexander

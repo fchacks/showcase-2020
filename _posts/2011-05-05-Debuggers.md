@@ -18,4 +18,4 @@ Introducing PRIOR, the Patient Reported Information for Operating Rooms, a new w
 <a href="https://www.dropbox.com/s/8ux4bsxaa64wu5c/prior2.zip?dl=0">Code File</a><br>
 <a href="https://www.dropbox.com/s/k3i9rsul9380jdg/PriorDemo.mov?dl=0">Project Video</a>
 
-Creators: Mira and Simon, USA
+Creators: Mira and Simon

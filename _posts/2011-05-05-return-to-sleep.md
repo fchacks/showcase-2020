@@ -25,4 +25,4 @@ Password: MMI0987MMI
 <a href="https://github.com/InfinitePi314/DonorHub">Code File</a> <br>
 <a href="https://youtu.be/XHJTf7pop3M">Project Video
 
-Creators: Etash, Arnim, Murugan, Varad (USA)
+Creators: Etash, Arnim, Murugan, Varad

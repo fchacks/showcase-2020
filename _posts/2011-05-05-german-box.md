@@ -37,7 +37,7 @@ What makes our solution innovative:
 It is true that there are some existing websites, but they usually belong to only one hospital, which is a problem. The website can be biased as the hospital won’t show it’s cons on the website, which can mislead the patient in their choice of the place they want to be cured at. On sites like these, the patients do not have a wide range of choices to compare between the different hospitals. If there is an overcrowded hospital, the patient needs to search all over again on the search engine, which is waste of time, effort, and does not always guarantee a response (some hospitals do not have a website) which is dangerous in extreme health conditions.
 
 
-<a href="https://repl.it/@Grandcircuit424/HospitalFinder#index.html">Code File</a>
+<a href="https://repl.it/@Grandcircuit424/HospitalFinder#index.html">Code File</a><br>
 <a href="https://drive.google.com/file/d/1wBTFtNGJzjcgr-OuR5ExmwirFxG0iEdq/view?usp=sharing">Project Video</a>
 
 Creators: Andrew, Ian, Adam

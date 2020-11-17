@@ -29,4 +29,4 @@ Eye4AnEye uses an image recognition algorithm to detect cataract or extreme bloo
 <a href="https://github.com/DonaldDuck780/Eye4AnEye">Code File</a><br>
 <a href="https://youtu.be/xwnpviH2yRY">Project Video</a>
 
-Creator: Evangelopoulos (Greece)
+Creator: Evangelopoulos

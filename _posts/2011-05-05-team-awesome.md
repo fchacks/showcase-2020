@@ -26,4 +26,4 @@ This project was made in a 24-hour timeframe, so some of the features that we wo
 <a href="https://www.hackster.io/siddharth-agarwala/open-source-rehabilitation-aid-for-patients-after-surgery-ab30e2">Code File</a> <br>
 <a href="https://www.youtube.com/watch?v=Y2GAPTYvM64&feature=youtu.be">Project Video</a>
 
-Creators: Siddharth and Oscar (USA)
+Creators: Siddharth and Oscar

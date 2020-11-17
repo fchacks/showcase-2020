@@ -16,4 +16,4 @@ A web application to help the people who aren’t sure what to do by letting the
 <a href="https://repl.it/@uncommonsense/Team-Uncommonsense-Project#main.py">Code File</a>
 
 Creators:
-Jack, Wilson, Mark, Kyle (USA)
+Jack, Wilson, Mark, Kyle

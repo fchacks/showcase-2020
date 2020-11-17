@@ -15,4 +15,4 @@ Tool that takes age, height and weight as an input and calulated BMI. The App al
 
 <a href="https://github.com/AAkashyap1/FCHacks.git">Code File</a>
 
-Creators: Ananth, USA
+Creators: Ananth

@@ -17,4 +17,4 @@ In my FCHacks project, my code finds the difference between two different bone s
 <a href="https://docs.google.com/document/d/19f2Ne1D0EkvsjxfCwNNWGFDHitwwfxMC7nnLtCwHbeA/edit?usp=sharing">Code File</a> <br>
 <a href="https://photos.app.goo.gl/qjxNqSF45cXteaEt6">Project Video</a>
 
-Creators: Alex (USA)
+Creators: Alex
