@@ -1,30 +1,26 @@
 # Site Settings
-name: Showcase
-title:
-description:
+name: FCHacks 2020 Showcase
+title: FCHacks 2020 Showcase
+description: Virtual FCHacks 2020 Project Showcase
 tags:
-  - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
+  - hacking
+  - hackathon
+  - computer science
 show_hero: true
 menu:
   - title: Home
     url: /
 
-email: youremail@test.com
+email: team@fchacks.org
 disqus_username: disqus_username
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: fchacks
+facebook_username: foxchapelhacks
+twitter_username: hacks_fc
+instagram_username: fc.hacks
 
 
 # Posts Settings
