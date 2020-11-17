@@ -1,7 +1,7 @@
 ---
 date: 2020-11-14 12:26:40
 layout: post
-title: Camel Case
+title: teamCamelCase
 subtitle: SafetySleeve
 description: Post-surgery pressure-sensing garment.
 image: /assets/img/teams/camelcase.png
