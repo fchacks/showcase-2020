@@ -3,7 +3,7 @@ date: 2020-11-14 12:26:40
 layout: post
 title: Something
 subtitle:
-description:
+description: Identifying broken bones using images
 image: /assets/img/teams/something.png
 optimized_image: /assets/img/teams/something.png
 category:
