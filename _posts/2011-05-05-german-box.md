@@ -40,4 +40,4 @@ It is true that there are some existing websites, but they usually belong to onl
 <a href="https://repl.it/@Grandcircuit424/HospitalFinder#index.html">Code File</a>
 <a href="https://drive.google.com/file/d/1wBTFtNGJzjcgr-OuR5ExmwirFxG0iEdq/view?usp=sharing">Project Video</a>
 
-Creators: Andrew, Ian, Adam (USA)
+Creators: Andrew, Ian, Adam

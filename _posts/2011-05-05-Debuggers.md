@@ -15,7 +15,7 @@ Many nurses, doctors, and even patients have run into this complication. Talking
 
 Introducing PRIOR, the Patient Reported Information for Operating Rooms, a new way of gathering this information. Prior is simple for both patients, and doctors using clean user interfaces to ask sets of questions in an easy, repeatable manner. Hospitals will pay a set fee to use Prior’s services to easily gather data and compile it into a neat spreadsheet. It will cut down on confusion and save money as there is less need for nurses to have long calls with patients. This will save hospitals 420 million dollars a year and cut down on human error. Prior’s goal is to help make the Pre-Op process smooth, cost effective, and efficient for hospitals around the world.
 
-<a href="">Code File</a>
-<a href="">Project Video</a>
+<a href="https://www.dropbox.com/s/8ux4bsxaa64wu5c/prior2.zip?dl=0">Code File</a><br>
+<a href="https://www.dropbox.com/s/k3i9rsul9380jdg/PriorDemo.mov?dl=0">Project Video</a>
 
 Creators: Mira and Simon, USA
