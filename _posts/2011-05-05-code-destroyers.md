@@ -4,8 +4,8 @@ layout: post
 title: Code Destroyers
 subtitle: PRIOR Healthcare
 description: A pre-op app to help nurses collect patient information.
-image: /assets/img/teams/bg_1.jpg
-optimized_image: /assets/img/teams/bg_1.jpg
+image: /assets/img/teams/destroyers.jpg
+optimized_image: /assets/img/teams/destroyers.jpg
 category:
 tags:
 author: fchacks
